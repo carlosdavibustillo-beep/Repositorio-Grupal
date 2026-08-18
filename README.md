@@ -1,6 +1,6 @@
 # Repositorio-Grupal
 Tarea de Informatica   Cuentas: 06, 07, 22, 23, 29, 27, 28
-# Sistema de Gestión de Base de Datos - Ferretería
+# Sistema de Gestión de Base de Datos - Ferretería.
 
 Este repositorio contiene el diseño, diagrama entidad-relación y scripts de consultas SQL para el sistema de gestión de una **Ferretería**, desarrollado en **Supabase / PostgreSQL**.
 
